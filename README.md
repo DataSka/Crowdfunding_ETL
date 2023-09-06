@@ -2,14 +2,10 @@
 
 References:
 code used/sources -
-Zoom meetings UNCC
+Zoom meetings UNCC 
 Tutor session
 
 
-
-
-https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-create-table/
-https://stackoverflow.com/questions/11966420/error-there-is-no-unique-constraint-matching-given-keys-for-referenced-table-b
 
 drop
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
@@ -19,6 +15,11 @@ https://www.geeksforgeeks.org/split-a-text-column-into-two-columns-in-pandas-dat
 
 Quick DBD
 https://app.quickdatabasediagrams.com/#/d/MLvf2r
+
+https://www.w3schools.com/sql/sql_foreignkey.asp
+https://www.youtube.com/watch?v=ymb9gsl_x1U
+
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-create-table/
 
 Git
 https://buildvirtual.net/how-to-switch-branch-in-git/#:~:text=To%20commit%20your%20changes%2C%20you,committing%20or%20discarding%20your%20changes.
